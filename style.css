@@ -1,0 +1,138 @@
+/*HEAD PAGE*/
+.headpage{
+    background-color: #f8ede4;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}   
+
+.name{
+    font-size: 5rem;
+    font-family: Playfair Display, serif ;
+    font-weight: 700;
+}
+
+.title{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*ABOUT ME*/
+.about-me{
+    background-color:white;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    border-top: 10px dashed #f8ede4;
+    border-bottom: 10px dashed #f8ede4;
+    
+}
+.ashyel-pic{
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 3px solid whitesmoke;
+}
+.display-5{
+    font-size: 3rem;
+    font-family: Playfair Display, serif ;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.lead{
+    font-size: 1rem;
+    font-weight:400;
+    text-align: justify;
+}
+
+/*Skills*/
+.skills{
+    background-color: #f8ede4;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+
+
+.technical{
+    font-size: 3rem;
+    font-family: Playfair Display, serif ;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.card-header{
+    background-color: rgb(238, 196, 144);
+}
+
+.card-body{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column; 
+    height: 100%;
+}
+
+.my-0{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.list{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn{
+    background-color: rgb(238, 196, 144);
+}
+.contact-me{
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.footer{
+    background-color: white;
+}
+
+.contact-me{
+    background-color: #f8ede4;
+}
+.education{
+    background-color:white;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    border-top: 10px dashed #f8ede4;
+    border-bottom: 10px dashed #f8ede4;
+}
+.pb-2{
+    font-size: 3rem;
+    font-family: Playfair Display, serif ;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.fs-2{
+    font-size: 2rem;
+    font-family: Playfair Display, serif ;
+    font-weight: 400;
+    margin-bottom: 20px;
+    height: 100%;
+}
+
+.list{
+   list-style: none;
+}
+
+.col{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
